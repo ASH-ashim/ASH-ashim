@@ -28,7 +28,6 @@
 ### **💻 Desktop Development**
 ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Tauri](https://img.shields.io/badge/-Tauri-FFC131?logo=tauri)
 
 ### **⚙️ Backend Development**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
