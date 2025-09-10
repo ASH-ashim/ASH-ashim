@@ -58,9 +58,12 @@ I’m a passionate developer who loves building **scalable full-stack applicatio
 ---
 
 ## 📊 GitHub Stats  
-![Ashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashim404&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashim404&layout=compact&theme=radical)  
 
----
+![Ashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASH-ashim&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASH-ashim&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ASH-ashim&theme=radical&hide_border=true)  
+
+![Ashim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASH-ashim&theme=radical)  
 
 ⭐️ *If you like my work, don’t forget to star my repositories!*  
