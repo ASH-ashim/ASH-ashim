@@ -89,7 +89,7 @@ I focus on writing **simple, readable code**, delivering smooth user experiences
 
 ## 📬 Let’s Connect
 
-You can find me on almost every platform:
+You can find me on almost every platforms:
 
 * 📸 **Instagram:** [https://www.instagram.com/ashim______g/](https://www.instagram.com/ashim______g/)
 * 🐦 **X (Twitter):** [https://x.com/AshimBHATT15146](https://x.com/AshimBHATT15146)
