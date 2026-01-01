@@ -35,14 +35,14 @@ I focus on writing **simple, readable code**, delivering smooth user experiences
 
 **Frontend**
 
-* HTML, CSS, JavaScript
-* React, Next.js
-* Tailwind CSS
+* HTML, CSS, JavaScript, TypeScript
+* React, Next.js, GSAP
+* Tailwind CSS, Redux
 
 **Backend**
 
 * Node.js, Express
-* REST APIs
+* REST APIs, GraphQL
 
 **CMS / WordPress**
 
@@ -53,19 +53,19 @@ I focus on writing **simple, readable code**, delivering smooth user experiences
 **DevOps (Learning & Practicing)**
 
 * Docker
+* Kubernetes
 * CI/CD basics
-* Linux
 
 **Database**
 
 * MongoDB
-* PostgreSQL (basic)
+* PostgreSQL
 
 **Tools**
 
 * Git & GitHub
 * Vercel
-* FFmpeg (basic video workflows)
+* Davinci Reolve (For Video Editing)
 
 ---
 
@@ -78,18 +78,9 @@ I focus on writing **simple, readable code**, delivering smooth user experiences
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASH-ashim&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH-ashim&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
----
-
 ## 📬 Let’s Connect
 
-You can find me on almost every platforms:
+You can find me on almost every platform:
 
 * 📸 **Instagram:** [https://www.instagram.com/ashim______g/](https://www.instagram.com/ashim______g/)
 * 🐦 **X (Twitter):** [https://x.com/AshimBHATT15146](https://x.com/AshimBHATT15146)
