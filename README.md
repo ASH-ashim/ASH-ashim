@@ -81,8 +81,8 @@ I focus on writing **simple, readable code**, delivering smooth user experiences
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshimBhattarai&show_icons=true&theme=transparent" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshimBhattarai&layout=compact&theme=transparent" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashim-bhattarai&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashim-bhattarai&layout=compact&theme=transparent&hide_border=true" height="170" />
 </p>
 
 ---
