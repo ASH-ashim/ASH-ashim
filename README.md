@@ -86,7 +86,7 @@ You can find me on almost every platform:
 * 🐦 **X (Twitter):** [https://x.com/AshimBHATT15146](https://x.com/AshimBHATT15146)
 * 🎥 **YouTube:** [https://www.youtube.com/@AshimBhattarai-p4o](https://www.youtube.com/@AshimBhattarai-p4o)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/ashim-bhattarai-977aa7353/](https://www.linkedin.com/in/ashim-bhattarai-977aa7353/)
-* 🌐 **Portfolio:** [https://ashim-0bhattarai.vercel.app](https://ashim-0bhattarai.vercel.app)
+* 🌐 **Portfolio:** [https://ashim-0bhattarai.vercel.app](https://ashim-bhattarai.vercel.app)
 * 📧 **Email:** [ashimbhattarai4040@gmail.com](mailto:ashimbhattarai4040@gmail.com)
 
 ---
