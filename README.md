@@ -37,11 +37,11 @@ I focus on writing **simple, readable code**, delivering smooth user experiences
 
 * HTML, CSS, JavaScript, TypeScript
 * React, Next.js, GSAP
-* Tailwind CSS, Redux
+* Tailwind CSS, Redux, ThreeJS
 
 **Backend**
 
-* Node.js, Express
+* Node.js, GoLang, Express
 * REST APIs, GraphQL
 
 **CMS / WordPress**
