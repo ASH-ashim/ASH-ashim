@@ -99,10 +99,10 @@ I also build **AI automation workflows with n8n**, helping teams eliminate manua
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashim-Bhattarai&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASH-ashim&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashim's GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashim-Bhattarai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH-ashim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
