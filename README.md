@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashim Bhattarai
 
-A **Full Stack & Backend Engineer** who builds scalable backend systems, cross-platform mobile apps, and cloud infrastructure — and works **AI-natively**, with agentic AI tools powering 40–50% of my engineering workflow.
+A **Full Stack & Backend Engineer** who builds scalable backend systems, cross-platform mobile apps, and cloud infrastructure — and works **AI-natively**, with agentic AI
 
 I focus on **system architecture, distributed systems, and engineering judgment** — the decisions AI cannot make. I use AI as a force multiplier, not a replacement for thinking.
 
