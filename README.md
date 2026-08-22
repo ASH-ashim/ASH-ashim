@@ -98,7 +98,7 @@ I also build **AI automation workflows with n8n**, helping teams eliminate manua
 - 🐦 **X (Twitter):** [@AshimBHATT15146](https://x.com/AshimBHATT15146)
 - 🎥 **YouTube:** [@ashim_dev](https://www.youtube.com/@ashim_dev)
 - 💼 **LinkedIn:** [ashtrick](https://www.linkedin.com/in/ashtrick)
-- 🌐 **Portfolio:** [ashim-bhattarai.vercel.app](https://ashim-bhattarai.vercel.app)
+- 🌐 **Portfolio:** [ashim-bhattarai.vercel.app](https://ashimworks.vercel.app)
 - 📧 **Email:** [ashimbhattarai48@gmail.com](mailto:ashimbhattarai48@gmail.com)
 
 ---
